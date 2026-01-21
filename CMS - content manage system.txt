@@ -1,3 +1,8 @@
 CMS - content manage system
     dotcms - self hosted
     craftcms - self-hosted
+
+
+
+TODO:
+    [ ] - clicking on face in group photo take you to profile page
